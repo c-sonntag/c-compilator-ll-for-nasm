@@ -1,0 +1,4 @@
+main()
+{
+    retour lire();
+}

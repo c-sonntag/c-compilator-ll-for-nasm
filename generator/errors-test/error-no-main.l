@@ -1,0 +1,4 @@
+yop()
+{
+ecrire(lire());
+}

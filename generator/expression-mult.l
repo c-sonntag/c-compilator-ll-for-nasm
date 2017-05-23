@@ -1,0 +1,4 @@
+main()
+{
+ecrire(lire() * lire());
+}

@@ -1,0 +1,7 @@
+main()
+{
+	yep()
+	{ 
+	ecrire(lire());
+	};
+}
